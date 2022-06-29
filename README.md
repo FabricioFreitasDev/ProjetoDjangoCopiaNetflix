@@ -4,3 +4,4 @@
 
 ![](https://github.com/FabricioFreitasDev/ProjetoEmDjango/blob/master/ProjetoDjango1.png)
 ![](https://github.com/FabricioFreitasDev/ProjetoEmDjango/blob/master/ProjetoDjango1.0.png)
+![](https://github.com/FabricioFreitasDev/ProjetoEmDjango/blob/master/ProjetoDjango1.1.png)
